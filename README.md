@@ -1,4 +1,4 @@
-# 🎯 BDA 수료율 예측 AI 모델 개발
+# BDA 수료율 예측 AI 모델 개발
 
 ## Project Overview
 - BDA 9기 데이터를 사용하여 10기 데이터의 수료율 예측
